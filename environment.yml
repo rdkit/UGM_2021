@@ -5,6 +5,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - boost=1.73
   - rdkit
   - jupyter
   - py3dmol
